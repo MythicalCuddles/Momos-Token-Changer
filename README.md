@@ -7,19 +7,19 @@ The module is based off [FVTT-TokenHUBWildcard](https://github.com/javieros105/F
 ## Table of Contents
 
 * [Momos-Token-Changer](#momos-token-changer-release-badge-license-badge)
-  * [Getting Started](#getting-started)
-    * [Install with Package Manager (Recommended Way)](#install-with-package-manager-recommended-way-to-install)
+  * [How to Install](#how-to-install)
+    * [Install with Package Manager (Recommended Way)](#install-with-package-manager)
     * [Install with Manifest URL](#install-with-manifest-url)
     * [Enabling the Module](#enabling-the-module)
   * [How to Use Momos Token Changer](#how-to-use-momos-token-changer)
   * [License](#license)
 
-## Getting Started
-
 ## How to Install
 The best way to install the Module is using the [Package Manager](#install-with-package-manager-recommended-way-to-install). This allows the Module to be updated in the setup menu with ease.
 
-### Install with Package Manager ![Recommended Way to Install](https://img.shields.io/badge/-Recommended%20Way-blue)
+### Install with Package Manager 
+
+![Recommended Way to Install](https://img.shields.io/badge/-Recommended%20Way-blue)
 
 1. Head to your Foundry VTT Configuration and Setup Screen.
 2. Click on "Add-on Modules" in the navigation.
@@ -27,7 +27,9 @@ The best way to install the Module is using the [Package Manager](#install-with-
 4. Search for ```Momos Token Changer``` in the Package Name textbox.
 5. Click "Install".
 
-### Install with Manifest URL ![Alternative Way to Install](https://img.shields.io/badge/-Alternative%20Way-orange)
+### Install with Manifest URL 
+
+![Alternative Way to Install](https://img.shields.io/badge/-Alternative%20Way-orange)
 
 1. Head to your Foundry VTT Configuration and Setup Screen.
 2. Click on "Add-on Modules" in the navigation.
