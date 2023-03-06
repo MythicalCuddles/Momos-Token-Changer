@@ -7,14 +7,12 @@ The module is based off [FVTT-TokenHUBWildcard](https://github.com/javieros105/F
 ## Table of Contents
 
 * [Momos-Token-Changer](#momos-token-changer-release-badge-license-badge)
-  * [Getting Started](#getting-started)
-    * [Install with Package Manager (Recommended Way)](#install-with-package-manager-recommended-way-to-install)
-    * [Install with Manifest URL](#install-with-manifest-url)
+  * [How to Install](#how-to-install)
+    * [Install with Package Manager (Recommended Way)](#install-with-package-manager-)
+    * [Install with Manifest URL](#install-with-manifest-url-)
     * [Enabling the Module](#enabling-the-module)
   * [How to Use Momos Token Changer](#how-to-use-momos-token-changer)
   * [License](#license)
-
-## Getting Started
 
 ## How to Install
 The best way to install the Module is using the [Package Manager](#install-with-package-manager-recommended-way-to-install). This allows the Module to be updated in the setup menu with ease.
